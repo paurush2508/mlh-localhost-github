@@ -157,7 +157,7 @@ Ipoh,Malaysia
 Sakarya,Turkey
 Kathmandu,Nepal
 Minna, Niger State Nigeria
-
+Bengaluru, Karnataka, India
 
 Oyo, Nigeria
 Kampala,Uganda
